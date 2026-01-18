@@ -1,8 +1,7 @@
 
-  # Japanese Restaurant Website
+  # Genz Cafe Webapps
 
-  This is a code bundle for Japanese Restaurant Website. The original project is available at https://www.figma.com/design/bl3QQ1ZcJuh7FC0NpavAoy/Japanese-Restaurant-Website.
-
+  This is a code bundle for Genz Cafe Webapps
   ## Running the code
 
   Run `npm i` to install the dependencies.
