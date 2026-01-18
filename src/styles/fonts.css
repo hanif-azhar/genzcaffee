@@ -1,0 +1,10 @@
+/* Google Fonts for Gen Z Cafe Theme */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;600;700&family=Space+Grotesk:wght@400;500;600;700&family=Syne:wght@600;700;800&display=swap');
+
+/* Font family definitions */
+:root {
+  --font-heading: 'Syne', sans-serif;
+  --font-body: 'Space Grotesk', sans-serif;
+  --font-accent: 'Fraunces', serif;
+  --font-japanese: 'Syne', sans-serif;
+}
